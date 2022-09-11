@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.bg-lp {
+    background-color: rgb(255, 204, 204);
+}
+
+.f24 {
+    font-size: 24px;
+}
+
+#num2 {
+    color: #0033cc;
+    font-size: 36px; 
+}
+
+#num4 {
+    background-color: hsl(120, 100%, 90%);
+    font-weight: 700;
+}
